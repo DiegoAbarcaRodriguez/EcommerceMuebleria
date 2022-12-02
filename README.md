@@ -1,3 +1,3 @@
 # EcommerceMuebleria
 ## Descripción: 
-Sitio Web del Ecommerce de una Mueblería, elaborado meadinte HTML y Boostrap 5.
+Sitio Web del Ecommerce de una Mueblería, elaborado meadiante HTML y Boostrap 5.
